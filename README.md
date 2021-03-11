@@ -1,4 +1,4 @@
-# -JESUS-token
+# The-JESUS-token
 A reflective-deflationary frictionless yield token built on Binance Smart Chain.
 
 The $JESUS token combines the best
